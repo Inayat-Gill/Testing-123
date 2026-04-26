@@ -12,3 +12,8 @@ Will be practicing the git stash
 
 making changes part 2..
 will stash this as well and see how it goes
+
+Make some changes
+making some more changes hahahahaha
+lets test it out more
+
