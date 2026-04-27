@@ -17,3 +17,7 @@ Make some changes
 making some more changes hahahahaha
 lets test it out more
 
+## Reset and Revert testing
+
+Line 1: Initial test message
+
